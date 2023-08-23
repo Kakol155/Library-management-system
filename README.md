@@ -17,7 +17,7 @@ Ready
 Program service. After starting the program, we can select a number from 1 to 4. Entering a given number activates a given function.
 
 - 1 is responsible for the procedure of adding a book:
-After entering 1, we give the name of the file in which the details of the book will be located. Then we give the book category, book ID, book name, book author, number of pages of the book, price of the book, current number of books in the library.
+After entering 1, we give the name of the file in which the details of the book will be located. Then we give the book category, book ID, book name, book author, number of pages of the book, price of the book and current number of books in the library.
 
 - 2 is responsible for procedure the book removal.
 After typing 2, a list of all book files is displayed. You need to enter the name of the file you want to delete.
