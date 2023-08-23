@@ -11,7 +11,7 @@ The program is about managing the library.
 - C
 
 ## Project Status
-Ready
+- Ready
 
 ## Usage
 Program service. After starting the program, we can select a number from 1 to 4. Entering a given number activates a given function.
