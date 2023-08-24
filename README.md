@@ -8,7 +8,11 @@
 The program is about managing the library.
 
 ## Technologies
-- C
+* C
+* Include stdio.h
+* Include stdlib.h
+* Include io.h
+* Include time.h
 
 ## Project Status
 - Ready
